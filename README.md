@@ -1,4 +1,4 @@
-# Demo-Action-Mailer
+# Demo of Action Mailer Standalone
 Action Mailer Standalone implementation in a Console application. 
 Action Mailer helps to unfold the power of Razor Engine into emails, by creating templates (html or text) and binding model to them. Great library!
 
